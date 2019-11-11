@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://xxcuzzme:kulesz1@cluster0-fvxxw.mongodb.net/test?retryWrites=true&w=majority",
-  "baseUrl": "https://url-shortener-xcxz.herokuapp.com/:5000"
+  "baseUrl": "https://frozen-plains-00754.herokuapp.com/"
 }
