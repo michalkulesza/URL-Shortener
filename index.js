@@ -14,4 +14,6 @@ app.use("/api/url", require("./routes/url"));
 
 const PORT = 5000;
 
-app.listen(PORT, () => console.log(`Server is running on port ${PORT}`));
+app.listen(process.env.PORT, () =>
+  console.log(`Server is running on port ${PORT}`)
+);
