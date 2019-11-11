@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://xxcuzzme:kulesz1@cluster0-fvxxw.mongodb.net/test?retryWrites=true&w=majority",
-  "baseUrl": "http://www.xcxz.org"
+  "baseUrl": "www.xcxz.org"
 }
