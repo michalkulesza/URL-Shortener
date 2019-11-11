@@ -1,6 +1,9 @@
 {
   "name": "url-shorten",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.14.0"
+  },
   "description": "URL Shorten servicew",
   "main": "index.js",
   "scripts": {
