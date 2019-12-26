@@ -1,6 +1,5 @@
 const express = require("express");
 const router = express.Router();
-const vaildUrl = require("valid-url");
 const shortid = require("shortid");
 const config = require("config");
 
